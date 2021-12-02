@@ -8,7 +8,7 @@
 * Simple knowledge of Dart and Flutter
 
 ## 📸 Video
-
+[![Everything Is AWESOME](https://img.youtube.com/vi/StTqXEQ2l-Y/0.jpg)](https://youtu.be/WR7mBvMeM3I "Everything Is AWESOME")
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
