@@ -23,8 +23,9 @@ Key Features of Booking Theater App
 ✔ Book Sit
 ✔ API connection
 
-- [Download APK](https://usaupload.com/5r4Z/app-release.apk)
 Star⭐ the repo if you like what you see😉.
+
+- [Download APK](https://usaupload.com/5r4Z/app-release.apk)
 
 ## 🤓 Author(s)
 **Olajire Abdullah (SilenceCodder)** [![Twitter Follow](https://img.shields.io/twitter/follow/SilenceCodder.svg?style=social)](https://twitter.com/SilenceCodder)
