@@ -8,7 +8,7 @@
 * Simple knowledge of Dart and Flutter
 
 ## 📸 Video
-
+https://youtu.be/WR7mBvMeM3I
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
@@ -24,8 +24,6 @@ Key Features of Booking Theater App
 
 
 Star⭐ the repo if you like what you see😉.
-
-- [Download APK]()
 
 ## 🤓 Author(s)
 **Olajire Abdullah (SilenceCodder)** [![Twitter Follow](https://img.shields.io/twitter/follow/SilenceCodder.svg?style=social)](https://twitter.com/SilenceCodder)
