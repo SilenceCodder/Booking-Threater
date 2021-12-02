@@ -25,8 +25,6 @@ Key Features of Booking Theater App
 
 Star⭐ the repo if you like what you see😉.
 
-- [Download APK]()
-
 ## 🤓 Author(s)
 **Olajire Abdullah (SilenceCodder)** [![Twitter Follow](https://img.shields.io/twitter/follow/SilenceCodder.svg?style=social)](https://twitter.com/SilenceCodder)
 
