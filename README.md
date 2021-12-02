@@ -8,7 +8,7 @@
 * Simple knowledge of Dart and Flutter
 
 ## 📸 App Video
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/34744075/144387209-90237bc1-1384-404e-a152-c0dd985304e7.gif)
+![Youtube](https://youtu.be/WR7mBvMeM3I)
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
