@@ -12,7 +12,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Download All social media content which includes Whatsapp status saver, Facebook downloader, Instagram downloader, TikTok downloader app and all social media saver and downloader in just one App.
+This project is for Cinema theater where user can book sit, view upcomin movies, watch movie (Based on Plan)
 
 Key Features of Booking Theater App
 
