@@ -8,7 +8,8 @@
 * Simple knowledge of Dart and Flutter
 
 ## 📸 App Video
-![Youtube](https://youtu.be/WR7mBvMeM3I)
+https://user-images.githubusercontent.com/34744075/144390009-de059a2a-7d42-41b6-8f0b-45ae8c12a7b9.mp4
+
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
