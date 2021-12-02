@@ -1,16 +1,38 @@
-# booking_theater
 
-A new Flutter application.
+# 🔥🔥 Booking Theater [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)  [![Twitter Follow](https://img.shields.io/twitter/follow/SilenceCodder.svg?style=social)](https://twitter.com/SilenceCodder)
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## ✨ Requirements
+* Any Operating System (ie. MacOS X, Linux, Windows)
+* Any IDE with Flutter SDK installed (ie. IntelliJ, Android Studio, VSCode etc)
+* Simple knowledge of Dart and Flutter
 
-A few resources to get you started if this is your first Flutter project:
+## 📸 Video
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- ABOUT THE PROJECT -->
+## About The Project
+Download All social media content which includes Whatsapp status saver, Facebook downloader, Instagram downloader, TikTok downloader app and all social media saver and downloader in just one App.
+
+Key Features of Booking Theater App
+
+✔ Register
+✔ Login
+✔ View Upcoming Movie Show
+✔ Book Sit
+✔ API connection
+
+
+Star⭐ the repo if you like what you see😉.
+
+- [Download APK]()
+
+## 🤓 Author(s)
+**Olajire Abdullah (SilenceCodder)** [![Twitter Follow](https://img.shields.io/twitter/follow/SilenceCodder.svg?style=social)](https://twitter.com/SilenceCodder)
+
+<!-- LICENSE -->
+## License
+
+Distributed under the MIT License. See `LICENSE.txt` for more information.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
