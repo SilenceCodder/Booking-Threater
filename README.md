@@ -8,7 +8,7 @@
 * Simple knowledge of Dart and Flutter
 
 ## 📸 App Video
-https://youtu.be/WR7mBvMeM3I
+![Uploading ezgif.com-gif-maker.gif…]()
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
